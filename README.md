@@ -15,7 +15,9 @@
 
 <p align="right">
 - 🔭 I’m currently working on RED MobileAPP 
-- 🌱 I’m currently learning KIVY 
+  <br/>
+- 🌱 I’m currently learning KIVY
+  <br/>
 - 📫 How to reach me: abul35-2002@diu.edu.bd 
 </p>
 
