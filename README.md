@@ -1,17 +1,25 @@
-### Hi there 👋
+### Hi there 👋, Muhammad Abul Bashar
+#### I am a Fast Learner.
+![I am a Fast Learner.](https://media-exp1.licdn.com/dms/image/C4E16AQFPsiDX1lYYpg/profile-displaybackgroundimage-shrink_200_800/0/1647368154289?e=1654128000&v=beta&t=1kCw_6b4SR0ddRc0eo9JjL0iY1ItZpL77WkOQ46oBwI)
 
-<!--
-**Bashar12345/Bashar12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I graduate as a Software Engineer.
+My first Choice Python.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 449203af-e349-4ce2-a95b-46a877bf2a3d
--->
+Skills: Python Flask / Django / Kivy
+
+- 🔭 I’m currently working on RED MobileAPP 
+- 🌱 I’m currently learning KIVY 
+- 📫 How to reach me: abul35-2002@diu.edu.bd 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bashar12345)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/muhammad-bashar-915648229/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bashar12345)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bashar12345&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bashar12345)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Bashar12345)  
+
