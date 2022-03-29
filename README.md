@@ -6,7 +6,7 @@
 
 
 <h5 align="center">My first Choice Python.</h5>
-<p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bashar12345&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="ragib920" />
+<p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bashar12345&show_icons=true&locale=en&layout=compact&theme=dark" alt="ragib920" />
 </p>
 <h3 align="right">Skills:</h3>
 <p align="right"> Python Flask / Django / Kivy </p>
