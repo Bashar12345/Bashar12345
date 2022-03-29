@@ -25,7 +25,7 @@
 <h4 align="center" >My regular activity:</h4>
 
 
-<p  align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bashar12345&show_icons=true&locale=en" alt="Bashar12345" /></p>
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs&show_icons=true&locale=en" alt="Bashar12345" /></p>
 
 </section>
 
