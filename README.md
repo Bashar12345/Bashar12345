@@ -15,10 +15,7 @@
  Currently working on MobileAPP 🔭 with "KIVY" 🌱 
  Contact: abul35-2002@diu.edu.bd 📫 <br/>
 </p>
-
-[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bashar12345)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/muhammad-bashar-915648229/)  
-
-
+  
 <h4 align="center" >My regular activity:</h4>
 <p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bashar12345&hide=contribs,prs&show_icons=true&locale=en&theme=graywhite" alt="Bashar12345" /></p>
 
