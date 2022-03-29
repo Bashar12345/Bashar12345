@@ -6,8 +6,8 @@
 
 <h4>I graduate as a Software Engineer.</h4>
 <h5>My first Choice Python.</h5>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bashar12345&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bashar12345&show_icons=true&locale=en&layout=compact" alt="ragib920" />
+</p>
 <h3 align="left">Skills:</h3>
  Python Flask / Django / Kivy
 
@@ -18,8 +18,10 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bashar12345)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/muhammad-bashar-915648229/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bashar12345&show_icons=true)
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bashar12345&show_icons=true&locale=en" alt="Bashar12345" /></p>
 
 <h4>My github activity:</h4>
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Bashar12345)]
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bashar12345&show_icons=true&locale=en" alt="Bashar12345" /></p>
+
+
 
