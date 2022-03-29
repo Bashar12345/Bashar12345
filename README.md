@@ -23,3 +23,4 @@ Skills: Python Flask / Django / Kivy
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Bashar12345)  
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bashar12345)](https://github.com/anuraghazra/github-readme-stats)
