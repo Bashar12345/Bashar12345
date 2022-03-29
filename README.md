@@ -12,11 +12,11 @@
 <p align="right"> Python Flask / Django / Kivy </p>
 
 <p align="right">
-- 🔭 I’m currently working on MobileAPP <br/>
+  I’m currently working on MobileAPP 🔭 <br/>
   <br/>
-- 🌱 I’m currently learning "KIVY" <br/>
+  I’m currently learning "KIVY" 🌱 <br/>
   <br/>
-- 📫 Contact: abul35-2002@diu.edu.bd <br/>
+ Contact: abul35-2002@diu.edu.bd 📫 <br/>
 </p>
 
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bashar12345)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/muhammad-bashar-915648229/)  
