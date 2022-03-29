@@ -7,7 +7,7 @@
 
 
 <img
-  src="https://github.com/<Bashar12345>/<Bashar12345>/blob/<master>/images/stat.svg"
+  src="https://github.com/Bashar12345/Bashar12345/blob/master/images/stat.svg"
   alt="Alternative Text"
 />
 <!--
