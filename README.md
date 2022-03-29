@@ -13,7 +13,7 @@
 
 <p align="right">
  Currently working on MobileAPP 🔭 with "KIVY" 🌱 
- Contact: abul35-2002@diu.edu.bd 📫 <br/>
+ Contact:<a href="https://www.linkedin.com/in/muhammad-bashar-915648229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-bashar-915648229/" height="30" width="40" /></a> <br/>
 </p>
   
 <h4 align="center" >My regular activity:</h4>
