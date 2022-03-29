@@ -12,10 +12,7 @@
 <p align="right"> Python Flask / Django / Kivy </p>
 
 <p align="right">
-  I’m currently working on MobileAPP 🔭
-  </p> <p>
-  I’m currently learning "KIVY" 🌱 
-  </p><p>
+ Currently working on MobileAPP 🔭 with "KIVY" 🌱 
  Contact: abul35-2002@diu.edu.bd 📫 <br/>
 </p>
 
