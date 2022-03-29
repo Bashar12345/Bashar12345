@@ -2,11 +2,12 @@
 <h4  align="right"> السلام عليكم ويوم جيد </h4>
 <h4 align="right"> I am a Fast Learner </h4>
 <h3 align="right">Software Engineer | Application Developer | Web Developer  </h3>
+<h4 align="right">I graduate as a Software Engineer.</h4>
 
 <p align="center"> <img src="https://media-exp1.licdn.com/dms/image/C4E16AQFPsiDX1lYYpg/profile-displaybackgroundimage-shrink_200_800/0/1647368154289?e=1654128000&v=beta&t=1kCw_6b4SR0ddRc0eo9JjL0iY1ItZpL77WkOQ46oBwI" alt="Bashar12345" /> </p>
 
 
-<h4 align="right">I graduate as a Software Engineer.</h4>
+
 <h5 align="center">My first Choice Python.</h5>
 <p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bashar12345&show_icons=true&locale=en&layout=compact" alt="ragib920" />
 </p>
