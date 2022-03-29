@@ -1,4 +1,4 @@
-<h1  align="right"> Muhammad Abul Bashar  السلام عليكم ويوم جيد </h1>
+<h1  align="right"> Muhammad Abul Bashar </h1>
 <h4  align="right"> السلام عليكم ويوم جيد </h4>
 <h4 align="right"> I am a Fast Learner </h4>
 <h3 align="right">Software Engineer | Application Developer | Web Developer  </h3>
