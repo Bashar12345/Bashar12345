@@ -6,7 +6,7 @@
 
 
 <h5 align="center">My first Choice Python.</h5>
-<p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bashar12345&show_icons=true&locale=en&layout=compact" alt="ragib920" />
+<p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bashar12345&show_icons=true&locale=en&layout=compact&theme=merko" alt="ragib920" />
 </p>
 <h3 align="right">Skills:</h3>
 <p align="right"> Python Flask / Django / Kivy </p>
@@ -25,7 +25,7 @@
 <h4 align="center" >My regular activity:</h4>
 
 
-<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bashar12345&hide=contribs,prs&show_icons=true&locale=en" alt="Bashar12345" /></p>
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bashar12345&hide=contribs,prs&show_icons=true&locale=entheme=merko" alt="Bashar12345" /></p>
 
 </section>
 
