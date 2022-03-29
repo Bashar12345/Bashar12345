@@ -14,9 +14,9 @@
 <p align="right">
 - 🔭 I’m currently working on MobileAPP 
   <br/>
-- 🌱 I’m currently learning KIVY
+- 🌱 I’m currently learning "KIVY"
   <br/>
-- 📫 How to reach me: abul35-2002@diu.edu.bd 
+- 📫 Contact: abul35-2002@diu.edu.bd 
 </p>
 
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bashar12345)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/muhammad-bashar-915648229/)  
