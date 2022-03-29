@@ -1,4 +1,5 @@
 <h1  align="right"> Muhammad Abul Bashar  السلام عليكم ويوم جيد </h1>
+<h4  align="right"> السلام عليكم ويوم جيد </h4>
 <h4 align="right"> I am a Fast Learner </h4>
 <h3 align="right">Software Engineer | Application Developer | Web Developer  </h3>
 
@@ -9,7 +10,7 @@
 <h5 align="center">My first Choice Python.</h5>
 <p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bashar12345&show_icons=true&locale=en&layout=compact" alt="ragib920" />
 </p>
-<h3 align="align="right"">Skills:</h3>
+<h3 align="right">Skills:</h3>
 <p align="right"> Python Flask / Django / Kivy </p>
 
 <p align="right">
