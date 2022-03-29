@@ -11,7 +11,7 @@
 <h3 align="right">Skills:</h3>
 <p align="right"> Python Flask / Django / Kivy </p>
 
-<p align="right"><a href="https://www.linkedin.com/in/muhammad-bashar-915648229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-bashar-915648229/" height="25" width="40" /></a> <br/> Currently working on MobileAPP 🔭 with "KIVY" 🌱 
+<p align="right"><a href="https://www.linkedin.com/in/muhammad-bashar-915648229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-bashar-915648229/" height="25" width="40" /></a> Currently working on MobileAPP 🔭 with "KIVY" 🌱 
 </p>
   
 <h4 align="center" >My regular activity:</h4>
