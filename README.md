@@ -14,7 +14,7 @@
 <p align="right"> Python Flask / Django / Kivy </p>
 
 <p align="right">
-- 🔭 I’m currently working on RED MobileAPP 
+- 🔭 I’m currently working on MobileAPP 
   <br/>
 - 🌱 I’m currently learning KIVY
   <br/>
