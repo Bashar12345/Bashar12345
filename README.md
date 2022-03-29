@@ -19,8 +19,5 @@ Skills: Python Flask / Django / Kivy
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bashar12345&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bashar12345)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Bashar12345)  
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bashar12345)](https://github.com/anuraghazra/github-readme-stats)
