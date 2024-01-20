@@ -1,8 +1,9 @@
 <h1  align="right"> Muhammad Abul Bashar </h1>
 <h3  align="right"> السلام عليكم ويوم جيد </h3>
-<h4 align="right"> I am a Fast Learner </h4>
-<h3 align="right">Software Engineer | Application Developer | Web Developer  </h3>
-<h4 align="right">I graduate as a Software Engineer.</h4>
+<h4 align="right">I want to be a lifelong student</h4>
+<h4 align="right">I graduate as a Software Engineer</h4>
+<h3 align="right">Software Engineer | AI Enthusiastist | Application Developer | Web Developer  </h3>
+
  <br/>
 <h2  align="right">Github Stats & My Skill Set</h2>
 
@@ -51,7 +52,10 @@
 <br/>
   
 <h2 align="right" >My regular activity</h4>
-<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bashar12345&hide=contribs,prs&show_icons=true&locale=en&theme=graywhite" alt="Bashar12345" /></p>
+<div  align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bashar12345&hide=contribs,prs&show_icons=true&locale=en&theme=graywhite&hide_border=true" alt="Bashar12345" />
+</div>
+
 
 <br/>
 <h2  align="right"> Connect with me </h2>
