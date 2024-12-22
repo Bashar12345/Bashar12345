@@ -2,7 +2,7 @@
 <h3  align="right"> السلام عليكم ويوم جيد </h3>
 <h4 align="right">I want to be a lifelong student</h4>
 <h4 align="right">I graduate as a Software Engineer</h4>
-<h3 align="right">Software Engineer | AI Enthusiastist | Application Developer | Web Developer  </h3>
+<h3 align="right">Software Engineer | AI Enthusiastist | AI Application Developer | Web Developer  </h3>
 
  <br/>
 <h2  align="right">Github Stats & My Skill Set</h2>
