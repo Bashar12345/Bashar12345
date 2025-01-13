@@ -52,9 +52,9 @@
   <a href="https://www.mongodb.com/" target="_blank">
     <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
   </a>
-  <a href="https://redis.io/" target="_blank">
+<!--   <a href="https://redis.io/" target="_blank">
     <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />
-  </a>
+  </a> -->
   <a href="https://www.linux.org/" target="_blank">
     <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
   </a>
