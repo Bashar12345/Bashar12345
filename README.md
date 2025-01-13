@@ -17,9 +17,7 @@
 <div>
 <table align="center">
   <tr>
-    <td valign="top" width="40%">
-
-</td><td valign="top" width="40%">
+<td valign="top" width="40%">
 
 #### Backend
 
