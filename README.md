@@ -73,14 +73,14 @@
 
 <h2 align="right"> 🌟 My Contributions </h2>
 <p align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bashar12345&theme=github" alt="Contributions" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bashar12345&theme=dark" alt="Contributions" />
 </p>
 
 ---
 
 <h2 align="right"> 📅 My Regular Activity </h2>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bashar12345&hide=contribs,prs&show_icons=true&locale=en&theme=graywhite&hide_border=true" alt="Bashar12345 Activity" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bashar12345&hide=contribs,prs&show_icons=true&locale=en&theme=dark&hide_border=true" alt="Bashar12345 Activity" />
 </p>
 
 ---
@@ -101,7 +101,7 @@
 
 <h2 align="right"> 🏆 Achievements </h2>
 <p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Bashar12345&theme=gruvbox&column=3&margin-w=15&margin-h=15&title=MultiLanguage,PullRequest,Experience,Commits,Repositories,Stars" alt="Trophies" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Bashar12345&theme=gruvbox&margin-w=12&margin-h=12&title=MultiLanguage,PullRequest,Experience,Commits,Repositories,Stars" alt="Trophies" />
 </p>
 
 
