@@ -1,6 +1,5 @@
 <h1 align="right"> Muhammad Abul Bashar </h1>
 <h3 align="right"> السلام عليكم ويوم جيد | I want to be a lifelong student</h3>
-<h4 align="right">I graduated as a Software Engineer</h4>
 <h3 align="right">AI Engineer | LLM Fine-Tuning | Generative AI | RAG Systems | Python Backend</h3>
 
 <br/>
